@@ -1,3 +1,3 @@
 # JQuery Examples
 
-- [Component](component/README.md)
+- [Component](component/index.html)
